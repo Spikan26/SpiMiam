@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "nom": "BLT",
+        "photo": "img/Wei_04.PNG",
+        "ingredients": [
+            {
+                "nom": "Jambon",
+                "quantite": 2,
+                "unite": "tranche(s)"
+            },
+            {
+                "nom": "Salade",
+                "quantite": 250,
+                "unite": "gramme(s)"
+            },
+            {
+                "nom": "Tomate",
+                "quantite": 2,
+                "unite": "unitée(s)"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "soir"
+            },
+            {
+                "tag": "midi"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nom": "Saumon riz",
+        "photo": "img/Wei_04.PNG",
+        "ingredients": [
+            {
+                "nom": "Saumon",
+                "quantite": 1,
+                "unite": "pavé(s)"
+            },
+            {
+                "nom": "Riz",
+                "quantite": 300,
+                "unite": "gramme(s)"
+            }
+        ],
+        "tags": [
+            {
+                "tag": "midi"
+            }
+        ]
+    }
+]
